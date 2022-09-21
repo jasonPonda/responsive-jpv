@@ -17,8 +17,8 @@ const About = () => {
             the middle east from where I live in USA.
           </p>
           <p>
-            I am John Doe, a senior advisor for an independently owned financial
-            planning company called Intense.
+            I am JThn Doe, a football coach for an independently owned club
+            planning company called paraK.
           </p>
           <button className="button">Explore More</button>
         </div>
